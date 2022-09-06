@@ -27,15 +27,9 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="30"> from Morocco.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="30"> from Morocco and Software development and artificial intelligence Enthusiast :slightly_smiling_face:.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Software development and artificial intelligence Enthusiast.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
 
 
