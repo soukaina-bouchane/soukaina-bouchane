@@ -29,6 +29,8 @@
 ### :woman_technologist: About Me 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="30"> from Morocco and Software development and artificial intelligence Enthusiast :slightly_smiling_face:.
 
+<br>
+
 ### :hammer_and_wrench: Languages and Tools 
 
 <div>
