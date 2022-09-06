@@ -20,7 +20,8 @@
 ---
 
 ### :woman_technologist: About Me 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="30"> and artificial intelligence Enthusiast :slightly_smiling_face:.
+I am Software Engineering Student and Full Stack Developer <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="30">.
+:sparkles: I'm artificial intelligence enthusiast :slightly_smiling_face:.
 
 <br>
 
