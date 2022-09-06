@@ -21,7 +21,7 @@
 
 ### :woman_technologist: About Me 
 I am Software Engineering Student, Full Stack Developer <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="30"> and
-:sparkles: I'm artificial intelligence enthusiast :slightly_smiling_face:.
+:sparkles: artificial intelligence enthusiast :slightly_smiling_face:.
 
 <br>
 
