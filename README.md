@@ -13,7 +13,7 @@
 <!--   <a href="https://www.sitepoint.com/github-profile-readme/your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a> -->
-  <br>
+  
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
   
   <h1>
@@ -27,11 +27,11 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="30"> from India.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="30"> from Morocco.
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Software development and artificial intelligence Enthusiast.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
