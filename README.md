@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif" width="200"/>
   <div id="badges">
-    <a href="https://www.sitepoint.com/github-profile-readme/https://www.linkedin.com/in/soukaina-bouchane/">
+    <a href="https://www.linkedin.com/in/soukaina-bouchane/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
     
@@ -11,6 +11,10 @@
     Hi! there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
+</div>
+</div>
+<div align="center">
+<!--   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/> -->
 </div>
 
 ---
