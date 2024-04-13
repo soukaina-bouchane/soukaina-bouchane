@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://news.umanitoba.ca/wp-content/uploads/2022/11/UM-Today-Rise-of-the-machine-age-II-review-opt-1.jpg" width="900"/>
+  <img src="https://news.umanitoba.ca/wp-content/uploads/2022/11/UM-Today-Rise-of-the-machine-age-II-review-opt-1.jpg" width="900" height = "500"/>
   content="https://news.umanitoba.ca/wp-content/uploads/2022/11/UM-Today-Rise-of-the-machine-age-II-review-opt-1.jpg" />
   <div id="badges">
     <a href="https://www.linkedin.com/in/soukaina-bouchane/">
