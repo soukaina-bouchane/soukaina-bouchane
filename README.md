@@ -1,6 +1,5 @@
 <div id="header" align="center">
-  <img src="https://news.umanitoba.ca/wp-content/uploads/2022/11/UM-Today-Rise-of-the-machine-age-II-review-opt-1.jpg" width="900" height = "500"/>
-  content="https://news.umanitoba.ca/wp-content/uploads/2022/11/UM-Today-Rise-of-the-machine-age-II-review-opt-1.jpg" />
+<!--   <img src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif" width="200"/> -->
   <div id="badges">
     <a href="https://www.linkedin.com/in/soukaina-bouchane/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -45,8 +44,3 @@ artificial intelligence enthusiast :slightly_smiling_face:.
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
-
-
-
-
-
