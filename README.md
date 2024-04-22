@@ -7,10 +7,10 @@
     
   </div>
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
-  <h1>
+<!--   <h1>
     Hi! there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
+  </h1> -->
 </div>
 </div>
 <div align="center">
@@ -20,8 +20,8 @@
 ---
 
 ### :woman_technologist: About Me 
-I am Full Stack Developer <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="30"> and
-artificial intelligence enthusiast :slightly_smiling_face:.
+I am Full Stack Developer and
+artificial intelligence enthusiast.
 
 <br>
 
